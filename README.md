@@ -14,6 +14,7 @@ year-to-date (YTD) sales, average sales, and average quantity sold.
 
 - Excel
 - Power BI
+- Dataset: Available in the /toy_sales_raw_data folder 
 
 
 
